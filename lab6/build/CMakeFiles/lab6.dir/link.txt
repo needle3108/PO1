@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/lab6.dir/main.cpp.o CMakeFiles/lab6.dir/src/Primitive.cpp.o CMakeFiles/lab6.dir/src/Product.cpp.o CMakeFiles/lab6.dir/src/Ratio.cpp.o CMakeFiles/lab6.dir/src/Sum.cpp.o -o lab6 

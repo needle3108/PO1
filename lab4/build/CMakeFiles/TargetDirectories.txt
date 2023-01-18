@@ -1,0 +1,4 @@
+/home/stud2020/0gawron/PO1/lab4/build/CMakeFiles/rebuild_cache.dir
+/home/stud2020/0gawron/PO1/lab4/build/CMakeFiles/edit_cache.dir
+/home/stud2020/0gawron/PO1/lab4/build/CMakeFiles/Lab4.dir
+/home/stud2020/0gawron/PO1/lab4/build/CMakeFiles/MyLab.dir

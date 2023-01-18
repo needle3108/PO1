@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyLab.a CMakeFiles/MyLab.dir/src/ubranie.cpp.o CMakeFiles/MyLab.dir/src/zelazko.cpp.o
+/usr/bin/ranlib libMyLab.a

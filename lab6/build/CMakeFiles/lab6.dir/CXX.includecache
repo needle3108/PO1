@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stud2020/0gawron/PO1/lab6/include/Primitive.h
+iostream
+-
+
+/home/stud2020/0gawron/PO1/lab6/include/Product.h
+iostream
+-
+Primitive.h
+/home/stud2020/0gawron/PO1/lab6/include/Primitive.h
+
+/home/stud2020/0gawron/PO1/lab6/include/Ratio.h
+iostream
+-
+Primitive.h
+/home/stud2020/0gawron/PO1/lab6/include/Primitive.h
+
+/home/stud2020/0gawron/PO1/lab6/include/Sum.h
+iostream
+-
+Primitive.h
+/home/stud2020/0gawron/PO1/lab6/include/Primitive.h
+
+/home/stud2020/0gawron/PO1/lab6/main.cpp
+include/Primitive.h
+/home/stud2020/0gawron/PO1/lab6/include/Primitive.h
+include/Product.h
+/home/stud2020/0gawron/PO1/lab6/include/Product.h
+include/Sum.h
+/home/stud2020/0gawron/PO1/lab6/include/Sum.h
+include/Ratio.h
+/home/stud2020/0gawron/PO1/lab6/include/Ratio.h
+iostream
+-
+

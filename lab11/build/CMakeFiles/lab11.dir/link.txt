@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/lab11.dir/main.cpp.o CMakeFiles/lab11.dir/src/Student.cpp.o CMakeFiles/lab11.dir/src/Table.cpp.o -o lab11 

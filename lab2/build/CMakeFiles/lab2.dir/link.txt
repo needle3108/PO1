@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/lab2.dir/atest.cpp.o CMakeFiles/lab2.dir/src/Argumenty.cpp.o -o lab2 

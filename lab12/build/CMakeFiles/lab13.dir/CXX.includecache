@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stud2020/0gawron/PO1/lab12/include/PairOfNumbers.h
+iostream
+-
+
+/home/stud2020/0gawron/PO1/lab12/include/RangeArray.h
+vector
+-
+PairOfNumbers.h
+/home/stud2020/0gawron/PO1/lab12/include/PairOfNumbers.h
+
+/home/stud2020/0gawron/PO1/lab12/main.cpp
+iostream
+-
+include/PairOfNumbers.h
+/home/stud2020/0gawron/PO1/lab12/include/PairOfNumbers.h
+include/RangeArray.h
+/home/stud2020/0gawron/PO1/lab12/include/RangeArray.h
+

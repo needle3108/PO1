@@ -1,0 +1,5 @@
+/home/stud2020/0gawron/PO1/lab8/build/CMakeFiles/rebuild_cache.dir
+/home/stud2020/0gawron/PO1/lab8/build/CMakeFiles/check.dir
+/home/stud2020/0gawron/PO1/lab8/build/CMakeFiles/run.dir
+/home/stud2020/0gawron/PO1/lab8/build/CMakeFiles/edit_cache.dir
+/home/stud2020/0gawron/PO1/lab8/build/CMakeFiles/lab8.dir

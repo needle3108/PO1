@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/CyclicList.h
+Node.h
+../include/Node.h
+NodeSpec.h
+../include/NodeSpec.h
+iostream
+-
+
+../include/Node.h
+string
+-
+
+../include/NodeSpec.h
+string
+-
+Node.h
+../include/Node.h
+
+/home/stud2020/0gawron/PO1/lab7/main.cpp
+CyclicList.h
+/home/stud2020/0gawron/PO1/lab7/CyclicList.h
+NodeSpec.h
+/home/stud2020/0gawron/PO1/lab7/NodeSpec.h
+Node.h
+/home/stud2020/0gawron/PO1/lab7/Node.h
+iostream
+-
+
+/home/stud2020/0gawron/PO1/lab7/src/153.cpp
+

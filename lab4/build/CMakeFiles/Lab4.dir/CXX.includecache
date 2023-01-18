@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/main.h
+iostream
+-
+
+../include/ubranie.h
+main.h
+../include/main.h
+
+../include/zelazko.h
+main.h
+../include/main.h
+
+/home/stud2020/0gawron/PO1/lab4/main.cpp
+main.h
+/home/stud2020/0gawron/PO1/lab4/main.h
+zelazko.h
+/home/stud2020/0gawron/PO1/lab4/zelazko.h
+ubranie.h
+/home/stud2020/0gawron/PO1/lab4/ubranie.h
+
